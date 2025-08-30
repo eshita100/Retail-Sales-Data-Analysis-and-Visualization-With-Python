@@ -23,3 +23,7 @@
 ## Python Visualization
 
 - <a href="https://github.com/eshita100/Retail-Sales-Data-Analysis-and-Visualization-With-Python/blob/main/Sales_Analysis_With_Python.ipynb">Visualize</a>
+
+## Project Insights Documentation
+
+- <a href="https://github.com/eshita100/Retail-Sales-Data-Analysis-and-Visualization-With-Python/blob/main/Superstore%20Sales%20Analysis.docx">Documentation</a>
