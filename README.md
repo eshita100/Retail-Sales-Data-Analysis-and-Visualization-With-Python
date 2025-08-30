@@ -20,3 +20,6 @@
 
 -How do sales and profit vary by product category on weekdays compared to weekends?
 
+## Python Visualization
+
+- <a href="https://github.com/eshita100/Retail-Sales-Data-Analysis-and-Visualization-With-Python/blob/main/Sales_Analysis_With_Python.ipynb">Visualize</a>
